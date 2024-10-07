@@ -41,7 +41,7 @@ const AboutPage = () => {
             <h1 className="font-bold text-2xl">BIOGRAPHY</h1>
             {/* BIOGRAPHY DESC */}
             <p className="text-lg">
-              Hello, I'm Ibrahim Cakmak. I have over 3 years of experience as a
+              Hello, I m Ibrahim Cakmak. I have over 3 years of experience as a
               frontend developer Mainly, basics like HTML, CSS and JavaScriptI
               have a strong background in web technologies. I also specialize in
               modern frameworks such as React.js, Next.js TypeScript and
